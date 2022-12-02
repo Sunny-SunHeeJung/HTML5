@@ -32,13 +32,6 @@ body{
 .main{
   background: lightgreen;
   height: 50vh;
-  display: flow-root;
-  padding:o 15px;
-}
-
-.group {
-  margin: 0 15px;
-  float: left;
 }
 
 .group1{
