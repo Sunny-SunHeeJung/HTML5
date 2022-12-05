@@ -32,6 +32,19 @@ body{
   position: relative;
 }
 
+/* 비주얼 */
+.visual{
+  background: orange;
+  height: 10vh;
+}
+
+/* 메인 */
+.main{
+  background: lightgreen;
+  height: 50vh;
+  display: flow-root;
+  padding: o 15px;
+}
 /* 로고 */
 .logo{
   position: absolute;
@@ -61,19 +74,6 @@ body{
   margin-right: 4px;
 }
 
-/* 비주얼 */
-.visual{
-  background: orange;
-  height: 10vh;
-}
-
-/* 메인 */
-.main{
-  background: lightgreen;
-  height: 50vh;
-  display: flow-root;
-  padding: o 15px;
-}
 
 .group {
   margin: 0 15px;
