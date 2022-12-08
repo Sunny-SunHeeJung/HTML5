@@ -247,7 +247,7 @@ body {
   animation-duration: 400ms;
   animation-fill-mode: forwards;
   position: relative;
-  z-index: 1;
+  z-index: 1000;
 }
 
 /* 메인 */
