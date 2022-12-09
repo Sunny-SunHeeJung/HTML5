@@ -345,16 +345,16 @@ body {
 }
 
 .sign li {
-  background-color: pink;
 }
 
 .sign a {
   display: block;
   padding: 6px 0;
+  letter-spacing: -1px;
 }
 
 .sign a::before {
-  content: "\e803";
+  content: "\e805";
   font-family: fontello;
   margin-right: 8px;
   color: orangered;
